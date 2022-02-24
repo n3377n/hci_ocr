@@ -2,7 +2,7 @@
 # Tesseract OCR - A Django API Server
 
 This project is a module for the following projects
-[HCI Project](https://github.com/duypham312/hci_project)
+[HCI Project](https://github.com/duypham312/hci_project) <br/>
 [HCI Backend](https://github.com/duypham312/hci_backend)
 
 ## Scripts
